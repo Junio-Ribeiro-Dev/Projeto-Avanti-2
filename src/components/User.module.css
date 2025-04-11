@@ -1,0 +1,42 @@
+.user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D9D9D9;
+    padding: 2rem;
+    border-radius: 2rem;
+    width: 700px;
+    height: 250px;
+    position: relative;
+    z-index: 99999999;
+    top: 260px;
+
+}
+.user img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #005cff;
+    margin: 10px;
+    transition: .5s;
+}
+
+.user img:hover{
+    width: 210px;
+    height: 210px;
+}
+
+.user h2{
+    color: #005cff;
+    margin-bottom: 15px;
+}
+.user p{
+    font-size: 16px;
+    color: #000;
+    font-weight: 300;
+    text-align: left;
+}
+
+.dados{
+    margin-left: 15px;
+}
