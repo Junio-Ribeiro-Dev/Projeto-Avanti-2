@@ -6,8 +6,8 @@
     padding: 2rem;
     gap: 1rem;
     margin-bottom: 1.5rem;
-    height: 550px;
-    width: 1000px;
+    height: 537px;
+    width: 1156px;
     position: absolute;
     z-index: 1;
 }
@@ -22,9 +22,9 @@
     gap: 0.5rem;
 }
 .search_container input{
-    width: 300px;
+    width: 500px;
     border-radius: 8px;
-    height: 50px;
+    height: 62px;
 }
 
 .search_container input,
@@ -36,12 +36,13 @@
 }
 
 .search_container button{
-    height: 48px;
-    width: 48px;
+    height: 61px;
+    width: 61px;
     margin-top: 1px;
-    margin-left: -57px;
+    margin-left: -70px;
     border-radius: 8px;
     background-color: #005cff;
     cursor: pointer;
 }
+
 

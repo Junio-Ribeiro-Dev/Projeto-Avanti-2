@@ -3,3 +3,21 @@
 text-align: center;
 margin-bottom: 1rem;
 }
+
+.e1{
+position: absolute;
+right: 0;
+top: 0;
+}
+
+.e2{
+position: absolute;
+left: 0;
+top: 198;
+}
+
+.camada{
+    position: absolute;
+    left: 71px;
+    top: 28px;
+    }
